@@ -1,4 +1,4 @@
-# enpm702_summer_2025
+# enpm702_summer_2025 (ARCHIVED)
 Code for C++ lectures for ENPM702 (Summer 2025)
 
 ## Lecture 1: Course Overview
